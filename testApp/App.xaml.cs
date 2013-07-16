@@ -17,6 +17,7 @@ namespace testApp
 {
     public partial class App : Application
     {
+	//Useless Comment
         /// <summary>
         /// Provides easy access to the root frame of the Phone Application.
         /// </summary>
